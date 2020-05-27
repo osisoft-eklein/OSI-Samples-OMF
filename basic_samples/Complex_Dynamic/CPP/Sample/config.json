@@ -1,0 +1,15 @@
+{
+  "eds": false,
+  "ocs": true,
+  "pi": false,
+  "omfTypeID": "TankMeasurement",
+  "omfContainerID": "Tank1Measurements",
+  "ocsOMFURL": "",
+  "omfAuth": "https://dat-b.osisoft.com/identity/connect/token",
+  "OCSclientID": "",
+  "OCSclientSecret": "",
+  "piOMFURL": "",
+  "PIID": "",
+  "PISecret": "",
+  "edsOMFURL": ""
+}
