@@ -21,7 +21,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="config.json" />
-    <None Include="config1.json" />
+    <None Include="product-readiness.config.json" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sample.h">
